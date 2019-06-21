@@ -1,0 +1,22 @@
+{
+  "production": {
+    "version": "8.1.7",
+    "file_name": "MVT_SAFE_585_ISO_8.1.7.img"
+  },
+  "dev": {
+    "version": "8.0.11.9",
+    "file_name": "MVT_SAFEDOME_8.0.11.9_quick_notification.img"
+  },
+  "qa": {
+    "version": "8.1.4",
+    "file_name": "MVT_SAFE_585_ISO_8.1.4.img"
+  },
+  "preprod": {
+    "version": "8.0.10.3",
+    "file_name": "MVT_SAFEDOME_ISO_8.0.10.3.img"
+  },
+  "beta": {
+    "version": "8.0.10.3",
+    "file_name": "MVT_SAFEDOME_ISO_8.0.10.3.img"
+   }
+}
